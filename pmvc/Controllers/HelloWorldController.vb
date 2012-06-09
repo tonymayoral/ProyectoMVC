@@ -19,6 +19,10 @@
 
             'un cambio de prueba
 
+
+            'cambio correspondiente a un requerimiento
+            'tb se pondróa el id de la tarea de bugnet
+
             Return View()
         End Function
 
