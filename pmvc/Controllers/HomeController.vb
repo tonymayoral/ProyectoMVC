@@ -15,7 +15,7 @@
 
     Function Contact() As ActionResult
         ViewData("Message") = "Your quintessential contact page."
-
+        'cambio hecho por QA sobre rama desarrollo
         Return View()
     End Function
 End Class
